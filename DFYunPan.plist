@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://raw.githubusercontent.com/zjjfhqpl/ipa/master/dfyunpan_2.1.1.ipa</string>
+                   <string>http://pan.360qiyun.com/ios/dfyunpan_2.1.1.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,13 +19,13 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>>https://raw.githubusercontent.com/zjjfhqpl/ipa/master/28.png</string>
+                   <string>>http://pan.360qiyun.com/ios/28.png</string>
                </dict>
 			   <dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zjjfhqpl/ipa/master/512.png</string>
+					<string>http://pan.360qiyun.com/ios/512.png</string>
 				</dict>
            </array>
            <key>metadata</key>
